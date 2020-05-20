@@ -1,4 +1,7 @@
 # Khan, Anum Farrukh
+#The perceptron model in this assignment is a single layer of neurons with multiple nodes.
+#The activation (transfer) function of each node is assumed to be a hard-limit function.
+#Model includes weights and the bias(es).
 
 import numpy as np
 
